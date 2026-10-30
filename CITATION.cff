@@ -16,7 +16,14 @@ authors:
 license: CC-BY-4.0
 url: "https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10"
 repository-code: "https://github.com/highlevelmkt/barometro-ia-portugal"
+doi: "10.5281/zenodo.23801213"
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23801213"
+    description: "Edição n.º 1 (v1.0.0) no Zenodo"
+  - type: doi
+    value: "10.5281/zenodo.23801212"
+    description: "Todas as versões no Zenodo"
   - type: url
     value: "https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10"
     description: "Relatório da edição n.º 1 (fonte principal)"

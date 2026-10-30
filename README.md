@@ -1,8 +1,11 @@
 # Barómetro HLM: quem as IAs recomendam na sua cidade
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23801213.svg)](https://doi.org/10.5281/zenodo.23801213)
+
 Dados abertos de um estudo da High Level Marketing (HLM). Quando alguém pede a uma IA uma empresa local, que empresas lhe aparecem? E de onde vem cada nome? Medimos isso no ChatGPT, no Perplexity e no Resumo de IA do Google, em cidades portuguesas.
 
 - **Relatório (fonte principal):** https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10
+- **DOI (Zenodo):** [10.5281/zenodo.23801213](https://doi.org/10.5281/zenodo.23801213) (edição n.º 1). Todas as versões: [10.5281/zenodo.23801212](https://doi.org/10.5281/zenodo.23801212).
 - **Licença dos dados:** CC BY 4.0 (ver `LICENSE`). Pode usar, adaptar e republicar, desde que cite a fonte.
 - **Nomes de empresas:** não são publicados. Cada empresa tem um código anónimo.
 
@@ -57,7 +60,7 @@ Cada edição sai numa release com o número da versão. As correcções ficam d
 
 ## Como citar
 
-> High Level Marketing (2026). *Barómetro HLM: quem as IAs recomendam na sua cidade, n.º 1* [Conjunto de dados]. Recolha de 29/10/2026. https://github.com/highlevelmkt/barometro-ia-portugal
+> High Level Marketing (2026). *Barómetro HLM: quem as IAs recomendam na sua cidade, n.º 1* [Conjunto de dados]. Recolha de 29/10/2026. Zenodo. https://doi.org/10.5281/zenodo.23801213
 
 Também em `CITATION.cff` (botão «Cite this repository» do GitHub).
 
@@ -69,4 +72,4 @@ Jornalistas e investigadores: https://www.highlevelmkt.com/imprensa · geral@hig
 
 ## English summary
 
-Open data from the HLM Barometer, a study of which local businesses ChatGPT, Perplexity and Google's AI Overviews recommend in Portuguese cities. Edition 1 covers electricians and home renovation in Lisbon, Setúbal, Leiria, Porto and Aveiro: 30 logged-out queries on 29 Oct 2026, with 94 recommendations. Only 8 recommended businesses (9%) were named by two engines for the same query, and none by all three. Each engine relied on a different source: service-and-city pages for Google, map listings for ChatGPT and quote directories for Perplexity. Business names are replaced by anonymous IDs. Licence: CC BY 4.0. Full report (Portuguese): https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10
+Open data from the HLM Barometer, a study of which local businesses ChatGPT, Perplexity and Google's AI Overviews recommend in Portuguese cities. Edition 1 covers electricians and home renovation in Lisbon, Setúbal, Leiria, Porto and Aveiro: 30 logged-out queries on 29 Oct 2026, with 94 recommendations. Only 8 recommended businesses (9%) were named by two engines for the same query, and none by all three. Each engine relied on a different source: service-and-city pages for Google, map listings for ChatGPT and quote directories for Perplexity. Business names are replaced by anonymous IDs. Licence: CC BY 4.0. DOI: 10.5281/zenodo.23801213. Full report (Portuguese): https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10
