@@ -1,0 +1,39 @@
+Licença dos dados: Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)
+==============================================================================
+
+Os dados deste repositório (pasta dados/ e os ficheiros que contém) são
+publicados pela High Level Marketing (HLM) sob a licença Creative Commons
+Atribuição 4.0 Internacional (CC BY 4.0).
+
+Resumo: https://creativecommons.org/licenses/by/4.0/deed.pt
+Texto legal: https://creativecommons.org/licenses/by/4.0/legalcode.pt
+
+Pode copiar, redistribuir, adaptar e usar os dados para qualquer fim, mesmo
+comercial, desde que:
+
+  1. indique a fonte, por exemplo:
+     «Fonte: Barómetro HLM, High Level Marketing (2026), CC BY 4.0,
+     https://github.com/highlevelmkt/barometro-ia-portugal»;
+  2. inclua o link para a licença;
+  3. indique se alterou os dados.
+
+Não é permitido sugerir que a HLM apoia o seu uso ou as suas conclusões.
+
+O que esta licença NÃO cobre:
+  - o nome, o logótipo e a marca «High Level Marketing» / «HLM»;
+  - os textos e imagens do site highlevelmkt.com, salvo indicação em contrário;
+  - as respostas originais dos motores de IA, que não são publicadas aqui.
+
+Os dados não identificam empresas: os nomes foram substituídos por códigos
+anónimos. Pedimos que não tente reidentificar as empresas a partir dos
+dados (é um pedido, não uma condição extra da licença).
+
+Os dados são fornecidos «tal como estão», sem garantias. Ver os limites do
+estudo no README.md.
+
+-------------------------------------------------------------------------------
+NOTA INTERNA (apagar antes de publicar): no repo público, gravar este
+ficheiro como LICENSE e colar a seguir a esta nota o texto oficial em inglês
+(https://creativecommons.org/licenses/by/4.0/legalcode.txt), copiado tal como
+está, sem o editar. Assim o GitHub reconhece a licença e mostra «CC-BY-4.0».
+-------------------------------------------------------------------------------

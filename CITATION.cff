@@ -1,16 +1,32 @@
 cff-version: 1.2.0
-message: "Se usar estes dados, cite-os assim."
+message: "Se usar estes dados, cite-os assim. / If you use this dataset, please cite it as below."
 type: dataset
 title: "Barómetro HLM: quem as IAs recomendam na sua cidade, n.º 1"
+version: "1.0.0"
+date-released: 2026-10-30
 authors:
   - name: "High Level Marketing (HLM)"
+    city: "São Domingos de Rana (Cascais)"
+    country: PT
     website: "https://www.highlevelmkt.com"
+    email: "geral@highlevelmkt.com"
   - family-names: "Oliveira"
     given-names: "Vinicius"
-date-released: 2026-10-30
+    affiliation: "High Level Marketing (HLM)"
 license: CC-BY-4.0
 url: "https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10"
+repository-code: "https://github.com/highlevelmkt/barometro-ia-portugal"
+identifiers:
+  - type: url
+    value: "https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10"
+    description: "Relatório da edição n.º 1 (fonte principal)"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q141908933"
+    description: "High Level Marketing no Wikidata"
 keywords:
+  - dados abertos
+  - inteligência artificial
+  - pesquisa local
   - generative AI
   - local search
   - ChatGPT
@@ -18,4 +34,9 @@ keywords:
   - Google AI Overviews
   - Portugal
   - small businesses
-abstract: "30 consultas (2 ofícios × 5 cidades portuguesas × 3 motores: ChatGPT, Perplexity e Resumo de IA do Google), sem sessão iniciada, a 29/10/2026. Para cada empresa recomendada, regista a fonte usada pelo motor. Os nomes das empresas foram substituídos por códigos anónimos."
+abstract: >-
+  30 perguntas (2 ofícios × 5 cidades portuguesas × 3 motores: ChatGPT,
+  Perplexity e Resumo de IA do Google), sem sessão iniciada, a 29/10/2026,
+  com 94 recomendações. Para cada empresa recomendada, regista a posição e a
+  fonte usada pelo motor; no Google, também o top 3 do mapa local. Os nomes
+  das empresas foram substituídos por códigos anónimos.
