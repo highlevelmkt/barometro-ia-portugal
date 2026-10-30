@@ -1,0 +1,348 @@
+{
+ "Lisboa": {
+  "cidade": "Lisboa",
+  "oficios": {
+   "remodelações": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 3,
+      "fontes": {
+       "listicle": 1,
+       "site_proprio": 1,
+       "pagina_servico_cidade": 1
+      },
+      "ai_overview": true,
+      "plataformas": 0
+     },
+     "ChatGPT": {
+      "n": 3,
+      "fontes": {
+       "listicle": 1,
+       "ficha_google": 2
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 5,
+      "fontes": {
+       "site_proprio": 3,
+       "diretorio": 2
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     }
+    },
+    "empresas_distintas": 10,
+    "em_2_motores": 1
+   },
+   "eletricista": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 2,
+      "fontes": {
+       "pagina_servico_cidade": 2
+      },
+      "ai_overview": true,
+      "plataformas": 3
+     },
+     "ChatGPT": {
+      "n": 4,
+      "fontes": {
+       "ficha_google": 2,
+       "listicle": 1,
+       "dados_mapa_sem_fonte": 1
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 1,
+      "fontes": {
+       "pagina_servico_cidade": 1
+      },
+      "ai_overview": null,
+      "plataformas": 2
+     }
+    },
+    "empresas_distintas": 7,
+    "em_2_motores": 0
+   }
+  }
+ },
+ "Setúbal": {
+  "cidade": "Setúbal",
+  "oficios": {
+   "remodelações": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 3,
+      "fontes": {
+       "pagina_servico_cidade": 2,
+       "site_proprio": 1
+      },
+      "ai_overview": true,
+      "plataformas": 0
+     },
+     "ChatGPT": {
+      "n": 3,
+      "fontes": {
+       "ficha_google": 2,
+       "dados_mapa_sem_fonte": 1
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 3,
+      "fontes": {
+       "diretorio": 3
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     }
+    },
+    "empresas_distintas": 9,
+    "em_2_motores": 0
+   },
+   "eletricista": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 5,
+      "fontes": {
+       "site_proprio": 2,
+       "pagina_servico_cidade": 1,
+       "diretorio": 2
+      },
+      "ai_overview": true,
+      "plataformas": 3
+     },
+     "ChatGPT": {
+      "n": 4,
+      "fontes": {
+       "dados_mapa_sem_fonte": 3,
+       "ficha_google": 1
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 1,
+      "fontes": {
+       "site_proprio": 1
+      },
+      "ai_overview": null,
+      "plataformas": 2
+     }
+    },
+    "empresas_distintas": 9,
+    "em_2_motores": 1
+   }
+  }
+ },
+ "Leiria": {
+  "cidade": "Leiria",
+  "oficios": {
+   "remodelações": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 5,
+      "fontes": {
+       "site_proprio": 3,
+       "pagina_servico_cidade": 2
+      },
+      "ai_overview": true,
+      "plataformas": 0
+     },
+     "ChatGPT": {
+      "n": 3,
+      "fontes": {
+       "ficha_google": 3
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 3,
+      "fontes": {
+       "site_proprio": 2,
+       "diretorio": 1
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     }
+    },
+    "empresas_distintas": 9,
+    "em_2_motores": 2
+   },
+   "eletricista": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 3,
+      "fontes": {
+       "diretorio": 1,
+       "site_proprio": 1,
+       "pagina_servico_cidade": 1
+      },
+      "ai_overview": true,
+      "plataformas": 3
+     },
+     "ChatGPT": {
+      "n": 4,
+      "fontes": {
+       "dados_mapa_sem_fonte": 4
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 1,
+      "fontes": {
+       "pagina_servico_cidade": 1
+      },
+      "ai_overview": null,
+      "plataformas": 2
+     }
+    },
+    "empresas_distintas": 7,
+    "em_2_motores": 1
+   }
+  }
+ },
+ "Porto": {
+  "cidade": "Porto",
+  "oficios": {
+   "remodelações": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 3,
+      "fontes": {
+       "listicle": 2,
+       "diretorio": 1
+      },
+      "ai_overview": true,
+      "plataformas": 0
+     },
+     "ChatGPT": {
+      "n": 3,
+      "fontes": {
+       "dados_mapa_sem_fonte": 3
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 3,
+      "fontes": {
+       "diretorio": 2,
+       "site_proprio": 1
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     }
+    },
+    "empresas_distintas": 9,
+    "em_2_motores": 0
+   },
+   "eletricista": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 4,
+      "fontes": {
+       "pagina_servico_cidade": 2,
+       "site_proprio": 2
+      },
+      "ai_overview": true,
+      "plataformas": 2
+     },
+     "ChatGPT": {
+      "n": 4,
+      "fontes": {
+       "ficha_google": 4
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 1,
+      "fontes": {
+       "diretorio": 1
+      },
+      "ai_overview": null,
+      "plataformas": 1
+     }
+    },
+    "empresas_distintas": 9,
+    "em_2_motores": 0
+   }
+  }
+ },
+ "Aveiro": {
+  "cidade": "Aveiro",
+  "oficios": {
+   "remodelações": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 3,
+      "fontes": {
+       "pagina_servico_cidade": 1,
+       "diretorio": 2
+      },
+      "ai_overview": true,
+      "plataformas": 0
+     },
+     "ChatGPT": {
+      "n": 3,
+      "fontes": {
+       "dados_mapa_sem_fonte": 1,
+       "ficha_google": 2
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 3,
+      "fontes": {
+       "diretorio": 3
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     }
+    },
+    "empresas_distintas": 7,
+    "em_2_motores": 2
+   },
+   "eletricista": {
+    "motores": {
+     "Google (AI Overview)": {
+      "n": 6,
+      "fontes": {
+       "pagina_servico_cidade": 6
+      },
+      "ai_overview": true,
+      "plataformas": 2
+     },
+     "ChatGPT": {
+      "n": 4,
+      "fontes": {
+       "ficha_google": 1,
+       "dados_mapa_sem_fonte": 3
+      },
+      "ai_overview": null,
+      "plataformas": 0
+     },
+     "Perplexity": {
+      "n": 1,
+      "fontes": {
+       "diretorio": 1
+      },
+      "ai_overview": null,
+      "plataformas": 2
+     }
+    },
+    "empresas_distintas": 10,
+    "em_2_motores": 1
+   }
+  }
+ }
+}

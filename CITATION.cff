@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite-os assim."
+type: dataset
+title: "Barómetro HLM: quem as IAs recomendam na sua cidade, n.º 1"
+authors:
+  - name: "High Level Marketing (HLM)"
+    website: "https://www.highlevelmkt.com"
+  - family-names: "Oliveira"
+    given-names: "Vinicius"
+date-released: 2026-10-30
+license: CC-BY-4.0
+url: "https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10"
+keywords:
+  - generative AI
+  - local search
+  - ChatGPT
+  - Perplexity
+  - Google AI Overviews
+  - Portugal
+  - small businesses
+abstract: "30 consultas (2 ofícios × 5 cidades portuguesas × 3 motores: ChatGPT, Perplexity e Resumo de IA do Google), sem sessão iniciada, a 29/10/2026. Para cada empresa recomendada, regista a fonte usada pelo motor. Os nomes das empresas foram substituídos por códigos anónimos."

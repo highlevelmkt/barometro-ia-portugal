@@ -1,0 +1,122 @@
+edicao,data,motor,cidade,oficio,pergunta,resumo_ia_presente,mapa_presente,plataformas_recomendadas,corrida,tipo,posicao,empresa_id,fonte_tipo,pagina_servico_cidade,fonte_inferida,nota,avaliacoes_banda,nota_origem
+1,2026-10-29,google_resumo_ia,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,1,1,,1,recomendacao,1,E001,listicle,1,0,,,
+1,2026-10-29,google_resumo_ia,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,1,1,,1,recomendacao,2,E002,site_proprio,0,0,,,
+1,2026-10-29,google_resumo_ia,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,1,1,,1,recomendacao,3,E003,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,1,1,,1,mapa_top3,1,E038,,,,4.9,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,1,1,,1,mapa_top3,2,E086,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,1,1,,1,mapa_top3,3,E087,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,1,1,Zaask|Habitissimo|Taskrabbit,2,recomendacao,1,E004,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,1,1,Zaask|Habitissimo|Taskrabbit,2,recomendacao,2,E005,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,1,1,Zaask|Habitissimo|Taskrabbit,2,mapa_top3,1,E041,,,,5.0,200+,google_maps_top3
+1,2026-10-29,google_resumo_ia,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,1,1,Zaask|Habitissimo|Taskrabbit,2,mapa_top3,2,E042,,,,5.0,200+,google_maps_top3
+1,2026-10-29,google_resumo_ia,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,1,1,Zaask|Habitissimo|Taskrabbit,2,mapa_top3,3,E088,,,,5.0,50-199,google_maps_top3
+1,2026-10-29,google_resumo_ia,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,1,1,,3,recomendacao,1,E006,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,1,1,,3,recomendacao,2,E007,site_proprio,0,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,1,1,,3,recomendacao,3,E008,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,1,1,,3,mapa_top3,1,E046,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,1,1,,3,mapa_top3,2,E045,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,1,1,,3,mapa_top3,3,E089,,,,3.0,1-9,google_maps_top3
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,recomendacao,1,E009,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,recomendacao,2,E010,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,recomendacao,3,E011,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,recomendacao,4,E012,diretorio,1,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,recomendacao,5,E013,diretorio,1,0,,,
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,mapa_top3,1,E051,,,,4.9,50-199,google_maps_top3
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,mapa_top3,2,E090,,,,4.7,1-9,google_maps_top3
+1,2026-10-29,google_resumo_ia,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,1,1,Zaask|Fixando|Habitissimo,4,mapa_top3,3,E091,,,,4.9,50-199,google_maps_top3
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,recomendacao,1,E014,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,recomendacao,2,E015,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,recomendacao,3,E016,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,recomendacao,4,E017,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,recomendacao,5,E018,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,mapa_top3,1,E092,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,mapa_top3,2,E078,,,,4.7,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,1,1,,5,mapa_top3,3,E016,,,,4.7,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,1,0,Fixando|Zaask|Habitissimo,6,recomendacao,1,E019,diretorio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,1,0,Fixando|Zaask|Habitissimo,6,recomendacao,2,E020,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,1,0,Fixando|Zaask|Habitissimo,6,recomendacao,3,E021,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,1,1,,7,recomendacao,1,E022,listicle,1,0,,,
+1,2026-10-29,google_resumo_ia,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,1,1,,7,recomendacao,2,E023,listicle,1,0,,,
+1,2026-10-29,google_resumo_ia,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,1,1,,7,recomendacao,3,E024,diretorio,1,0,,,
+1,2026-10-29,google_resumo_ia,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,1,1,,7,mapa_top3,1,E093,,,,4.5,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,1,1,,7,mapa_top3,2,E094,,,,5.0,1-9,google_maps_top3
+1,2026-10-29,google_resumo_ia,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,1,1,,7,mapa_top3,3,E022,,,,4.5,50-199,google_maps_top3
+1,2026-10-29,google_resumo_ia,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,1,1,Habitissimo|Zaask,8,recomendacao,1,E025,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,1,1,Habitissimo|Zaask,8,recomendacao,2,E026,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,1,1,Habitissimo|Zaask,8,recomendacao,3,E027,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,1,1,Habitissimo|Zaask,8,recomendacao,4,E028,site_proprio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,1,1,Habitissimo|Zaask,8,mapa_top3,1,E095,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,1,1,Habitissimo|Zaask,8,mapa_top3,2,E060,,,,4.9,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,1,1,Habitissimo|Zaask,8,mapa_top3,3,E096,,,,4.7,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,1,1,,9,recomendacao,1,E029,pagina_servico_cidade,1,0,4.9,,google_citada_no_resumo
+1,2026-10-29,google_resumo_ia,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,1,1,,9,recomendacao,2,E030,diretorio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,1,1,,9,recomendacao,3,E031,diretorio,nd,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,1,1,,9,mapa_top3,1,E097,,,,4.6,50-199,google_maps_top3
+1,2026-10-29,google_resumo_ia,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,1,1,,9,mapa_top3,2,E065,,,,4.5,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,1,1,,9,mapa_top3,3,E063,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,recomendacao,1,E032,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,recomendacao,2,E033,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,recomendacao,3,E034,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,recomendacao,4,E035,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,recomendacao,5,E036,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,recomendacao,6,E037,pagina_servico_cidade,1,0,,,
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,mapa_top3,1,E066,,,,4.9,50-199,google_maps_top3
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,mapa_top3,2,E098,,,,4.6,10-49,google_maps_top3
+1,2026-10-29,google_resumo_ia,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,1,1,Fixando|Zaask,10,mapa_top3,3,E099,,,,5.0,10-49,google_maps_top3
+1,2026-10-29,chatgpt,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,11,recomendacao,1,E038,listicle,nd,0,4.9,10-49,chatgpt_igual_mapa_google
+1,2026-10-29,chatgpt,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,11,recomendacao,2,E039,ficha_google,nd,0,4.7,10-49,google
+1,2026-10-29,chatgpt,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,11,recomendacao,3,E040,ficha_google,nd,0,5.0,10-49,google
+1,2026-10-29,chatgpt,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,,,,12,recomendacao,1,E041,ficha_google,nd,1,5.0,200+,google_inferida_igual_mapa
+1,2026-10-29,chatgpt,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,,,,12,recomendacao,2,E042,ficha_google,nd,1,5.0,200+,google_inferida_igual_mapa
+1,2026-10-29,chatgpt,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,,,,12,recomendacao,3,E043,listicle,1,0,4.9,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,,,,12,recomendacao,4,E044,dados_mapa_sem_fonte,nd,0,4.9,50-199,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,,,,13,recomendacao,1,E045,ficha_google,nd,1,5.0,10-49,google_inferida_igual_mapa
+1,2026-10-29,chatgpt,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,,,,13,recomendacao,2,E046,ficha_google,nd,1,5.0,10-49,google_inferida_igual_mapa
+1,2026-10-29,chatgpt,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,,,,13,recomendacao,3,E047,dados_mapa_sem_fonte,nd,0,4.7,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,,,,14,recomendacao,1,E048,dados_mapa_sem_fonte,nd,0,5.0,200+,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,,,,14,recomendacao,2,E049,dados_mapa_sem_fonte,nd,0,4.8,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,,,,14,recomendacao,3,E050,dados_mapa_sem_fonte,nd,0,4.6,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,,,,14,recomendacao,4,E051,ficha_google,nd,1,4.9,50-199,google_inferida_igual_mapa
+1,2026-10-29,chatgpt,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,,,,15,recomendacao,1,E016,ficha_google,nd,0,4.7,10-49,google
+1,2026-10-29,chatgpt,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,,,,15,recomendacao,2,E014,ficha_google,nd,0,5.0,10-49,google
+1,2026-10-29,chatgpt,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,,,,15,recomendacao,3,E052,ficha_google,nd,0,4.8,200+,google
+1,2026-10-29,chatgpt,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,,,,16,recomendacao,1,E020,dados_mapa_sem_fonte,nd,0,5.0,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,,,,16,recomendacao,2,E053,dados_mapa_sem_fonte,nd,0,5.0,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,,,,16,recomendacao,3,E054,dados_mapa_sem_fonte,nd,0,4.5,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,,,,16,recomendacao,4,E055,dados_mapa_sem_fonte,nd,0,4.9,1-9,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,,,,17,recomendacao,1,E056,dados_mapa_sem_fonte,nd,0,4.9,50-199,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,,,,17,recomendacao,2,E057,dados_mapa_sem_fonte,nd,0,4.8,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,,,,17,recomendacao,3,E058,dados_mapa_sem_fonte,nd,0,4.8,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,,,,18,recomendacao,1,E059,ficha_google,nd,0,,,
+1,2026-10-29,chatgpt,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,,,,18,recomendacao,2,E060,ficha_google,nd,0,,,
+1,2026-10-29,chatgpt,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,,,,18,recomendacao,3,E061,ficha_google,nd,0,,,
+1,2026-10-29,chatgpt,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,,,,18,recomendacao,4,E062,ficha_google,nd,0,,,
+1,2026-10-29,chatgpt,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,,,,19,recomendacao,1,E063,dados_mapa_sem_fonte,nd,0,4.7,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,,,,19,recomendacao,2,E064,ficha_google,nd,0,4.9,10-49,google
+1,2026-10-29,chatgpt,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,,,,19,recomendacao,3,E065,ficha_google,nd,1,4.5,10-49,google_inferida_igual_mapa
+1,2026-10-29,chatgpt,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,,,,20,recomendacao,1,E066,ficha_google,nd,1,4.9,50-199,google_inferida_igual_mapa
+1,2026-10-29,chatgpt,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,,,,20,recomendacao,2,E067,dados_mapa_sem_fonte,nd,0,5.0,10-49,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,,,,20,recomendacao,3,E068,dados_mapa_sem_fonte,nd,0,5.0,1-9,chatgpt_sem_fonte
+1,2026-10-29,chatgpt,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,,,,20,recomendacao,4,E032,dados_mapa_sem_fonte,nd,0,4.6,1-9,chatgpt_sem_fonte
+1,2026-10-29,perplexity,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,21,recomendacao,1,E069,site_proprio,0,0,,,
+1,2026-10-29,perplexity,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,21,recomendacao,2,E070,site_proprio,0,0,,,
+1,2026-10-29,perplexity,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,21,recomendacao,3,E003,site_proprio,nd,0,,,
+1,2026-10-29,perplexity,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,21,recomendacao,4,E071,diretorio,1,0,,,
+1,2026-10-29,perplexity,Lisboa,remodelações,Quem faz remodelações de casas em Lisboa? Recomende 3 empresas.,,,,21,recomendacao,5,E072,diretorio,1,0,,,
+1,2026-10-29,perplexity,Lisboa,eletricista,Preciso de um eletricista em Lisboa. Que empresas recomenda?,,,Fixando|Zaask,22,recomendacao,1,E073,pagina_servico_cidade,1,0,,,
+1,2026-10-29,perplexity,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,,,,23,recomendacao,1,E074,diretorio,1,0,5.0,50-199,zaask
+1,2026-10-29,perplexity,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,,,,23,recomendacao,2,E075,diretorio,1,0,5.0,10-49,zaask
+1,2026-10-29,perplexity,Setúbal,remodelações,Quem faz remodelações de casas em Setúbal? Recomende 3 empresas.,,,,23,recomendacao,3,E076,diretorio,1,0,,,
+1,2026-10-29,perplexity,Setúbal,eletricista,Preciso de um eletricista em Setúbal. Que empresas recomenda?,,,Fixando|Zaask,24,recomendacao,1,E049,site_proprio,0,0,,,
+1,2026-10-29,perplexity,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,,,,25,recomendacao,1,E077,site_proprio,0,0,,,
+1,2026-10-29,perplexity,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,,,,25,recomendacao,2,E078,site_proprio,0,0,,,
+1,2026-10-29,perplexity,Leiria,remodelações,Quem faz remodelações de casas em Leiria? Recomende 3 empresas.,,,,25,recomendacao,3,E079,diretorio,1,0,,,
+1,2026-10-29,perplexity,Leiria,eletricista,Preciso de um eletricista em Leiria. Que empresas recomenda?,,,Fixando|Zaask,26,recomendacao,1,E080,pagina_servico_cidade,1,0,,,
+1,2026-10-29,perplexity,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,,,,27,recomendacao,1,E081,diretorio,1,0,,,
+1,2026-10-29,perplexity,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,,,,27,recomendacao,2,E082,diretorio,1,0,,10-49,zaask
+1,2026-10-29,perplexity,Porto,remodelações,Quem faz remodelações de casas no Porto? Recomende 3 empresas.,,,,27,recomendacao,3,E083,site_proprio,0,0,,,
+1,2026-10-29,perplexity,Porto,eletricista,Preciso de um eletricista no Porto. Que empresas recomenda?,,,Zaask,28,recomendacao,1,E084,diretorio,1,0,,,
+1,2026-10-29,perplexity,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,,,,29,recomendacao,1,E030,diretorio,1,0,3.6,10-49,habitissimo
+1,2026-10-29,perplexity,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,,,,29,recomendacao,2,E031,diretorio,1,0,3.0,1-9,habitissimo
+1,2026-10-29,perplexity,Aveiro,remodelações,Quem faz remodelações de casas em Aveiro? Recomende 3 empresas.,,,,29,recomendacao,3,E085,diretorio,1,0,4.3,1-9,habitissimo
+1,2026-10-29,perplexity,Aveiro,eletricista,Preciso de um eletricista em Aveiro. Que empresas recomenda?,,,Fixando|Zaask,30,recomendacao,1,E085,diretorio,1,0,4.3,1-9,habitissimo
