@@ -27,6 +27,9 @@ identifiers:
   - type: url
     value: "https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10"
     description: "Relatório da edição n.º 1 (fonte principal)"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q142244195"
+    description: "Ficha do conjunto de dados na Wikidata"
 keywords:
   - dados abertos
   - inteligência artificial

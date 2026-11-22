@@ -6,6 +6,7 @@ Dados abertos de um estudo da High Level Marketing (HLM). Quando alguém pede a 
 
 - **Relatório (fonte principal):** https://www.highlevelmkt.com/relatorios/barometro-ia-quem-as-ias-recomendam-2026-10
 - **DOI (Zenodo):** [10.5281/zenodo.23801213](https://doi.org/10.5281/zenodo.23801213) (edição n.º 1). Todas as versões: [10.5281/zenodo.23801212](https://doi.org/10.5281/zenodo.23801212).
+- **Wikidata:** [Q142244195](https://www.wikidata.org/wiki/Q142244195)
 - **Licença dos dados:** CC BY 4.0 (ver `LICENSE`). Pode usar, adaptar e republicar, desde que cite a fonte.
 - **Nomes de empresas:** não são publicados. Cada empresa tem um código anónimo.
 
